@@ -14,7 +14,7 @@ body {
 
 .top-wrapper {
     background-color: #1f2937;
-    padding: 0 15% 0 15%;
+    padding: 0 10% 0 10%;
 }
 
 header {
@@ -110,8 +110,8 @@ header {
 }
 
 .card img {
-    height: 120px;
-    width: 120px;
+    height: 200px;
+    width: 200px;
     border: solid 5px #3882F6;
     border-radius: 20px;
 }
