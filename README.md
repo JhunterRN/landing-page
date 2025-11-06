@@ -1,6 +1,6 @@
 # landing-page
-Odin landing page project
 
+See live preview @ https://jhunterrn.github.io/landing-page/
 
 All images for displayed content from https://unsplash.com/
 
